@@ -20,6 +20,7 @@ s = (a +b + c)* 0.5
 
 fun main(args: Array<string>)
 {
+    
     if (args.size < 3)
     {
         println("Error: values for a, b, c required on command line")
